@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday-dogiparthi&label=Profile%20views&color=0e75b6&style=flat" alt="uday-dogiparthi" /> </p>
 
-- 🔭 I am working on **My_portfolio**
+- 🔭 I am working on [My_portfolio](https://uday-portfolio-black.vercel.app/)
 
 - 🌱 I’m currently learning **JS,DSA**
+
+- 👨‍💻 All of my projects are available at [https://uday-portfolio-black.vercel.app/](https://uday-portfolio-black.vercel.app/)
 
 - 📫 How to reach me **udaykumar90132@gmail.com**
 
